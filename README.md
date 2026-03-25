@@ -211,7 +211,7 @@ pip install scikit-learn
 python ex05_mnist.py
 ```
 
-결과 이미지는 week3_hw의 Do_Own 폴더에 저장했습니다.
+결과 이미지는 기존 01~05를 run 시킨 결과값과 함께 week3_hw의 Do_Own 폴더에 저장했습니다.
 
 ---
 
