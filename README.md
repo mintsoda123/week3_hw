@@ -72,7 +72,7 @@ Backward: Chain Rule로 gradient 계산 후 가중치 업데이트
 
 ## 📄 PRD / TRD
 
-PRD / TRD를 이용한 자세한 요구사항 및 기술 설계는 `week3_PRD_TRD.docx` 파일을 참고해주십시오.
+PRD / TRD를 이용한 자세한 요구사항 및 기술 설계는 `week3_PRD_TRD.md` 파일을 참고해주십시오.
 
 ---
 
